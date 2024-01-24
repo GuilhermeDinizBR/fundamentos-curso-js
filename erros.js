@@ -1,2 +1,5 @@
-//console.log(variavel);
-console.log('oi');
+const numero = 1;
+const minhaVar = 'oi';
+
+console.log(numero);
+console.log(minhaVar);
